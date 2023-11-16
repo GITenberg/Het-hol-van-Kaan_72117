@@ -5,12 +5,17 @@ contributor:
     agent_name: Heskes, Willem Frederik
     gutenberg_agent_id: '56546'
     url: http://www.gutenberg.org/2009/agents/56546
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Belinfante, Emilie
     gutenberg_agent_id: '56545'
     url: http://www.gutenberg.org/2009/agents/56545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72117#Het-hol-van-Kaan
 gutenberg_issued: '2023-11-13'
 identifiers:
   gutenberg: '72117'
